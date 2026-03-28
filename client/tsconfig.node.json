@@ -10,6 +10,7 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "declaration": true,
+    "types": ["node"],
     "strict": true,
     "skipLibCheck": true
   },
